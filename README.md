@@ -7,7 +7,7 @@ Hi, I'm Oswald
 </p>
 
 # About Me
-- As a Cyber Security Engineer and Linux enthusiast, I have a keen interest in hardware hacking, reverse engineering, system engineering, OS development, Malware Development.
+- As a Cyber Security Engineer and Linux enthusiast, I have a keen interest in hardware hacking, reverse engineering, system engineering, OS development, Malware Development, Networking.
 ---
 
 # Insights of My Work
