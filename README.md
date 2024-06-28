@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Oswald
+===============
+***Cybersecurity is something I am passionate about and I am also interested in System Engineering and architecture.***
 
-<!--
-**O5wald/O5wald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://miro.medium.com/v2/resize:fit:1078/1*E4tkuZQQ0YUiqKheDA_y7w.jpeg" border="0" width="400">
+</p>
 
-Here are some ideas to get you started:
+# About Me
+- As a Cyber Security Engineer and Linux enthusiast, I have a keen interest in hardware hacking, reverse engineering, system engineering, OS development, Malware Development.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Insights of My Work
+
+[![Oswald's GitHub stats](https://github-readme-stats.vercel.app/api?username=O5wald&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
