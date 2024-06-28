@@ -12,5 +12,5 @@ Hi, I'm Oswald
 
 # Insights of My Work
 
-[![Oswald's GitHub stats](https://github-readme-stats.vercel.app/api?username=O5wald&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Oswald's GitHub stats](https://github-readme-stats.vercel.app/api?username=O5wald&theme=onedark)](https://github.com/O5wald/github-readme-stats)
 
