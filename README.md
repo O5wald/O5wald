@@ -3,7 +3,7 @@ Hi, I'm Oswald
 ***Cybersecurity is something I am passionate about and I am also interested in System Engineering and architecture.***
 
 <p align="center"> 
-  <img src="https://miro.medium.com/v2/resize:fit:1078/1*E4tkuZQQ0YUiqKheDA_y7w.jpeg" border="0" width="400">
+  <img src="https://i.pinimg.com/564x/ee/a5/a0/eea5a0c5edc6825a585a7594154a4da0.jpg" border="0" width="400">
 </p>
 
 # About Me
